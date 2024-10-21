@@ -24,7 +24,7 @@ public class Controller {
 			
 			switch (choice) {
 			case 1:{
-				//  block for user SingUP
+				//  block for user SingU
 				
 				usercrud.signUP();
 				
